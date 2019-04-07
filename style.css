@@ -10,6 +10,10 @@ p {
 	color: #9A5B52;
 }
 
+h1 {
+	text-decoration: underline;
+}
+
 footer p {
 	background-color: #5443AF;
 }
