@@ -16,6 +16,7 @@ h1 {
 
 footer p {
 	background-color: #5443AF;
+	text-shadow: 4px 4px 5px red;
 }
 
 li {
