@@ -47,7 +47,16 @@ a {
 a:hover {
     font-style: italic;
     color:#b8bdb2;
+}
 
+li {
+	background-color: #7A2941;
+	color: #8B6671;
+	display:inline-block;
+  font-size: 1rem;
+  font-weight: bold;
+	padding: 5px 5px 5px 5px;
+	border-radius: 15px;
 }
 ul {
   display: inline-block;
