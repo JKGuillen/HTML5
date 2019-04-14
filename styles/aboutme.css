@@ -5,7 +5,7 @@ header, #container, p {
 }
 
 body {
-  background-color: #b8bdb2;
+  background-color: #f28a68;
 }
 
 p {
@@ -14,7 +14,7 @@ p {
 
 h1 {
   display: center;
-  background: #000000;
+  background: #db5c68;
   color: #ffffff;
   padding: 5px;
 }
@@ -52,14 +52,14 @@ a:hover {
 li {
 	background-color: #7A2941;
 	color: #8B6671;
-	display:inline-block;
-  font-size: 1rem;
-  font-weight: bold;
+	display: center;
+  	font-size: 1rem;
+  	font-weight: bold;
 	padding: 5px 5px 5px 5px;
 	border-radius: 15px;
 }
 ul {
-  display: inline-block;
+  display: center;
   background: #b8bdb2;
   color: #ffffff;
 }
