@@ -3,6 +3,10 @@ header, #container, p {
   background-color: #758890;
   text-align: center;
 }
+body {
+  background-color: #f28a68;
+  text-align: center;
+}
 li {
 	background-color: #7A2941;
 	color: #8B6671;
