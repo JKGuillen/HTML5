@@ -3,15 +3,15 @@ html{
   font-family: sans-serif;
 }
 body {
-	background-color: #375659;
-	color: #88A2A5;
+	background-color: #88A2A5;
+	color: #375659;
 	text-align: center;
   	margin: 10px;
   	border-radius: 20px
 }
 
 p {
-	color: #9A5B52;
+	color: #edf1f2;
 }
 
 h1 {
