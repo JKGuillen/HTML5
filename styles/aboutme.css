@@ -61,6 +61,10 @@ li {
 	border-radius: 6px;
 }
 
+footer{
+	  text-align: center;
+}
+
 #container{
     width: 800px;
     padding-left: 2px;
