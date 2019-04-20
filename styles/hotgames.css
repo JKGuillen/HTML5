@@ -22,6 +22,8 @@ table {
   width: 400px;
   text-align: center;
   border-collapse: collapse;
+  margin-left:auto; 
+  margin-right:auto;
 }
 table td, table.steelBlueCols th {
   border: 1px solid #555555;
