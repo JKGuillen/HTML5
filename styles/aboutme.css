@@ -5,7 +5,7 @@ header, #container, p {
 }
 
 body {
-  background-color: #20aac1;
+  background-color: #118093;
 }
 
 p {
@@ -14,7 +14,7 @@ p {
 
 h1 {
   display: center;
-  background: #118093;
+  background: #20aac1;
   border: 6px inset rgba(28,110,164,0.81);
   color: #ffffff;
   padding: 5px;
