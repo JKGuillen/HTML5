@@ -14,7 +14,7 @@ p {
 
 h1 {
   display: center;
-  background: #A479B8;
+  background: #792d48;
   border: 6px inset rgba(28,110,164,0.81);
   color: #ffffff;
   padding: 5px;
@@ -23,18 +23,18 @@ h1 {
 
 h2 {
   display: inline-block;
-  background: #d68726;
+  background: #43846a;
   padding-left:20px;
   padding-right:20px;
 }
 span {
-  background: #d68726;
+  background: #43846a;
 }
 
 
 nav {
-    display: inline-block;
-    background: #d68726;
+    display: center;
+    background: #b06535;
 
 }
 
