@@ -87,6 +87,14 @@ footer {
     grid-column: 1 / 3;
     grid-row: 3;
 }
+
+header,
+footer {
+  border-radius: 5px;
+  padding: 10px;
+  background-color: rgb(89, 142, 117);
+  border: 2px solid rgb(79,185,227);
+}
         
 aside {
   border-right: 1px solid #999;
