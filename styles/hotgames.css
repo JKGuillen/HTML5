@@ -93,3 +93,10 @@ p {
   	padding: 5px;
   	text-align: center;
 }
+
+.form {
+	display: inline-grid;
+	padding: 2px;
+	text-align: center;
+	border: 6px inset rgba(28,110,164,0.81);
+}
