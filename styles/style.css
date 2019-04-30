@@ -67,13 +67,12 @@ li {
 }
 
 .jgame {
-  position: relative;
-  -webkit-text-fill-color: #8c1f1f00;
-  -webkit-text-stroke: 4px #04e9f5;
-  font-size: 40px;
-  font-family: 'Titillium Web', sans-serif;
-  font-style: italic;
-  margin: 0;
-  line-height: 1;
+	position: relative;
+  	-webkit-text-fill-color: #8c1f1f00;
+  	-webkit-text-stroke: 4px #04e9f5;
+  	font-size: 40px;
+  	font-style: italic;
+  	margin: 0;
+  	line-height: 1;
 }
 
