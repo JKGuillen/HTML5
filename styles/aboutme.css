@@ -13,7 +13,6 @@ p {
 }
 
 h1 {
-  	display: center;
   	background: #792d48;
   	border: 6px inset rgba(28,110,164,0.81);
   	color: #ffffff;
@@ -30,10 +29,6 @@ h2 {
 
 span {
   	background: #43846a;
-}
-
-nav {
-    	display: center;
 }
 
 a {
