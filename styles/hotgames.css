@@ -77,7 +77,6 @@ table tfoot .links a{
 }
 
 caption {
-	display: center;
   	background: #10424c;
   	border: 6px inset rgba(28,110,164,0.81);
   	color: #ffffff;
@@ -86,7 +85,6 @@ caption {
 }
 
 p {
-	display: center;
   	background: #10424c;
   	border: 6px inset rgba(28,110,164,0.81);
   	color: #ffffff;
