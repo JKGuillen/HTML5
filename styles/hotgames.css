@@ -2,10 +2,12 @@ header, #container, p {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	text-align: center;
 }
+
 body {
 	background-color: #7ac1bd;
 	text-align: center;
 }
+
 li {
 	background-color: #4b979d;
 	color: #8B6671;
@@ -15,6 +17,7 @@ li {
 	padding: 5px 5px 5px 5px;
 	border-radius: 15px;
 }
+
 table {
 	border: 4px solid #555555;
  	background-color: #555555;
@@ -29,18 +32,22 @@ table td, th {
   	border: 1px solid #555555;
   	padding: 5px 10px;
 }
+
 table tbody td {
   	font-size: 12px;
   	font-weight: bold;
   	color: #FFFFFF;
 }
+
 table td:nth-child(even) {
   	background: #398AA4;
 }
+
 table thead {
   	background: #398AA4;
  	border-bottom: 10px solid #398AA4;
 }
+
 table thead th {
   	font-size: 15px;
   	font-weight: bold;
@@ -48,6 +55,7 @@ table thead th {
   	text-align: center;
   	border-left: 2px solid #398AA4;
 }
+
 table thead th:first-child {
   	border-left: none;
 }
@@ -55,9 +63,11 @@ table thead th:first-child {
 table tfoot td {
   	font-size: 13px;
 }
+
 table tfoot .links {
   	text-align: right;
 }
+
 table tfoot .links a{
   	display: inline-block;
   	background: #FFFFFF;
@@ -67,6 +77,15 @@ table tfoot .links a{
 }
 
 caption {
+	display: center;
+  	background: #10424c;
+  	border: 6px inset rgba(28,110,164,0.81);
+  	color: #ffffff;
+  	padding: 5px;
+  	text-align: center;
+}
+
+p {
 	display: center;
   	background: #10424c;
   	border: 6px inset rgba(28,110,164,0.81);
