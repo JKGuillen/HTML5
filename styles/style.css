@@ -68,8 +68,6 @@ li {
 
 .jgame {
   position: relative;
-  background-image: -webkit-linear-gradient(#378DBC 0%, #B6E8F1 46%, #ffffff 50%, #32120E 54%, #FFC488 58%, #582C11 90%, #EC9B4E 100%);
-  -webkit-background-clip: text;
   -webkit-text-fill-color: #8c1f1f00;
   -webkit-text-stroke: 4px #04e9f5;
   font-size: 40px;
@@ -78,3 +76,4 @@ li {
   margin: 0;
   line-height: 1;
 }
+
