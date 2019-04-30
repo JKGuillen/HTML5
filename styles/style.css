@@ -66,13 +66,15 @@ li {
 	border-radius: 15px;
 }
 
-.jgame {
-	position: relative;
-  	-webkit-text-fill-color: #8c1f1f00;
-  	-webkit-text-stroke: 4px #04e9f5;
-  	font-size: 40px;
-  	font-style: italic;
-  	margin: 0;
-  	line-height: 1;
+h1 {
+  position: relative;
+  background-image: -webkit-linear-gradient(#378DBC 0%, #253475 46%, #ffffff 50%, #32120E 54%, #88ffe7 58%, #673a1f 90%, #327d8a 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: #7f4b4b00;
+  -webkit-text-stroke: 4px #04e9f5;
+  font-size: 80px;
+  font-style: italic;
+  margin: 0;
+  line-height: 1;
 }
 
