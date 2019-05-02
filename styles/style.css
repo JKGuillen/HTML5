@@ -16,7 +16,6 @@ p {
 }
 
 h2 {
-	display: center;
   	background: #792d48;
   	border: 6px inset rgba(28,110,164,0.81);
   	color: #ffffff;
@@ -25,7 +24,6 @@ h2 {
 }
 
 h3 {
-	display: center;
   	background: #792d48;
   	border: 6px inset rgba(28,110,164,0.81);
   	color: #ffffff;
@@ -34,7 +32,6 @@ h3 {
 }
 
 h4 {
-	display: center;
   	background: #792d48;
   	border: 6px inset rgba(28,110,164,0.81);
   	color: #ffffff;
@@ -43,7 +40,6 @@ h4 {
 }
 
 h5 {
-	display: center;
   	background: #792d48;
   	border: 6px inset rgba(28,110,164,0.81);
   	color: #ffffff;
