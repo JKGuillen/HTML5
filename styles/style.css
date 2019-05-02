@@ -5,14 +5,14 @@ html{
 
 body {
 	background-color: #88A2A5;
-	color: #375659;
+	color: #163335;
 	text-align: center;
   	margin: 10px;
   	border-radius: 20px
 }
 
 p {
-	color: #edf1f2;
+	color: #163335;
 }
 
 h2 {
@@ -57,7 +57,7 @@ footer p {
 }
 
 li {
-	background-color: #7A2941;
+	background-color: #38b576;
 	color: #8B6671;
 	display:inline-block;
   	font-size: 1rem;
