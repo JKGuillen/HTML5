@@ -31,14 +31,15 @@ a {
 }
 
 li {
-	background-color: #7A2941;
+	background-color: #4b979d;
 	color: #8B6671;
-	display: inline-block;
+	display:inline-block;
   	font-size: 1rem;
   	font-weight: bold;
 	padding: 5px 5px 5px 5px;
-	border-radius: 6px;
+	border-radius: 15px;
 }
+
 
 footer{
 	text-align: center;
