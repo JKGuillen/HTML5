@@ -110,3 +110,10 @@ h1 {
   	margin: 0;
   	line-height: 1;
 }
+
+footer {
+  	border-radius: 5px;
+  	padding: 1px;
+  	background-color: rgb(121, 45, 72);
+  	border: 2px solid rgb(70, 91, 99);
+}
