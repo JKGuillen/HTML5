@@ -83,12 +83,11 @@ footer {
     	grid-row: 3;
 }
 
-header,
 footer {
   	border-radius: 5px;
-  	padding: 10px;
-  	background-color: rgb(89, 142, 117);
-  	border: 2px solid rgb(79,185,227);
+  	padding: 1px;
+  	background-color: rgb(121, 45, 72);
+  	border: 2px solid rgb(70, 91, 99);
 }
         
 aside {
