@@ -1,6 +1,6 @@
-header, #container, p {
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	text-align: center;
+html{
+  	font-size: 15px;
+  	font-family: sans-serif;
 }
 
 body {
