@@ -23,20 +23,11 @@ h2 {
   	text-align: center;
 }
 
-span {
-  	background: #43846a;
-}
-
 a {
   	color: #ffffff;
   	text-decoration: none;
   	display: inline-block;
   	background: #000000;
-}
-
-a:hover {
-    	font-style: italic;
-    	color:#b8bdb2;
 }
 
 li {
